@@ -7,4 +7,4 @@
 ### サークルメンバーの紹介
 * ぷりんたい (@purintai)
 * supermomonga (@supermomonga)
-* ELIN (@el1n)
+* 似非原重雄 (@esehara)
