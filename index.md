@@ -8,6 +8,12 @@
 [お-46](https://techbookfest.org/event/tbf02/circle/5689792285114368)
 レイアウトは[この画像](https://techbookfest.org/assets/tbf02/images/circle-layout.png)で確認できます。
 
+### 頒布価格
+1,000円 (予定)
+
+### 頒布数
+100部 (予定)
+
 ### サークルメンバーの紹介
 * ぷりんたい (@purintai)
 * supermomonga (@supermomonga)
